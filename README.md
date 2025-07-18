@@ -1,7 +1,5 @@
 # Earthquake-Severity-Prediction
 
-# Earthquake Magnitude Classifier
-
 This project is an end-to-end machine learning pipeline that classifies the severity of earthquakes based on geospatial and geological features. It uses historical earthquake data containing latitude, longitude, depth, and magnitude to predict whether an event is of low, moderate, or high severity.
 
 The model is built using Python and scikit-learn, and includes all steps from data loading to model evaluation and artifact saving. It’s designed to be easy to understand, reproducible, and extendable for more advanced seismic prediction systems in the future.
